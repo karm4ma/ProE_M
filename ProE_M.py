@@ -1,28 +1,44 @@
-'''A Part of Pro E
+'''
+
 Author : Karmesh Maheshwari
-Language : Python 2	
-	This program is free software: you can redistribute it and/or modify
+Country of Origin: India
+Email: karm_ma@yahoo.co.in, karm_apple@icloud.com
+Language : Python 2
+	
+
+--------------------------------------------------------------------------------------------------------------------	
+
+
+This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
+
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
+
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-The 1024 Stacks Softwares, hereby disclaims all copyright interest in this program written by Karmesh Maheshwari.
 
+
+The 1024 Stacks Softwares, hereby disclaims all copyright interest in this program written by Karmesh Maheshwari.
 <signature of Karmesh Maheshwari>, 8 March 2016
 
-Sorry for not commenting unused libraries. Get your Bing API key from Microsoft Bing.
+------------------------------------------------------------------------------------------------------------------------
+
+Sorry for not commenting unused libraries and variables. Get your Bing API key from Microsoft Bing Developer Portal. In case of any assistance, feel free to contact me.
 
 Microsoft and Bing are the Registered Trademarks of the Microsoft Corporation, USA.
 The 1024 Stacks Softwares and Pro E are the registered trademarks of The 1024 Stacks Softwares, India. 
+
+ 
+
 '''
 
 import urllib
@@ -110,7 +126,9 @@ class karmesh:
                         #if (string.find(query,y)):
                         ana=ana+1
                         u=y
-                        v=(string.lower(u)).replace('://'," ").replace('%',' ').replace('/'," ").replace('-'," ").replace('_'," ").replace('20',' ').replace('(',' ').replace(')',' ').replace('.'," ").split()
+                        v=(string.lower(u)).replace('://'," ").replace('%',' ').replace('/'," ").replace('-'," ").replace('_'," ").replace('20',' ').replace('(',' ').replace(')',' 
+
+').replace('.'," ").split()
                         #print v
                         if 'mp3light' in v or 'onlinekaraoke'  in v or "4shared" in v or "sound2mp3" in v or "trendingmp3" in v or "mp3falls" in v or "candymp3" in v:
                             
