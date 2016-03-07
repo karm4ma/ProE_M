@@ -25,11 +25,6 @@ This program is free software: you can redistribute it and/or modify
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-
-
-The 1024 Stacks Softwares, hereby disclaims all copyright interest in this program written by Karmesh Maheshwari.
-<signature of Karmesh Maheshwari>, 8 March 2016
-
 ------------------------------------------------------------------------------------------------------------------------
 
 Sorry for not commenting unused libraries and variables. Get your Bing API key from Microsoft Bing Developer Portal. In case of any assistance, feel free to contact me.
